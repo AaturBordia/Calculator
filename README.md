@@ -2,7 +2,7 @@
 
 Scientific calculator powered by JavaScript. The calculator includes number buttons, a clear button, 5 operator buttons such as "Addition, Subtraction, Multiplication, Division and Exponentiation", a backspace button, a dot button and a display to show the operations. I have used `input` tags to get the values into the display.
 
-![CALCULATOR_LINK](https://aaturbordia.github.io/Calculator/Cal.html)
+[CALCULATOR_LINK](https://aaturbordia.github.io/Calculator/Cal.html)
 
 ### Screenshots
 
